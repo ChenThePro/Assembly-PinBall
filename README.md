@@ -8,5 +8,3 @@ The purpose of the project is to have fun and try to set a higher score each tim
 I learnt and used a few tools to make this project. The keyboards buffer, the computers clock and more!!!.
 
 I also added my project documentation that I submitted to my school for anyone to look at it. It contains pictures of my project, explanations and code references, it might not be up to date but it contains most of my work. For reading my code I recommend just reading the git file base.asm.
-
-The documentation I submitted to my school is under the name of "Project portfolio(In Hebrew), contains: code documentation, explanations and more!", Keep in mind it is written in Hebrew but you could definitely just look at the pictures of the website and translate it with any software.

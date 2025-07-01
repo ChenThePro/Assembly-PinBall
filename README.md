@@ -7,18 +7,18 @@
 
 ## 🧭 Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Game Instructions](#game-instructions)
-- [Code Highlights](#code-highlights)
-- [Documentation](#documentation)
-- [Examples](#examples)
-- [Reflections](#reflections)
-- [Contributors](#contributors)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Features](#-features)
+- [Technology Stack](#-technology-stack)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Game Instructions](#-game-instructions)
+- [Code Highlights](#-code-highlights)
+- [Documentation](#-documentation)
+- [Visuals](#-visuals)
+- [Reflections](#-reflections)
+- [Contributors](#-contributors)
+- [License](#-license)
 
 ---
 
@@ -145,7 +145,7 @@ Here are a few interesting technical components:
 
 ---
 
-## 🖼️ Examples
+## 🖼️ Visuals
 
 Here’s what the game looks like during play (you can upload screenshots here):
 
